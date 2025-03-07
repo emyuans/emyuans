@@ -1,8 +1,13 @@
 <p align="center">
   <samp>
-    Hi!
-    <br>I am Emily and I am an aspiring software engineer
+    Hi! 
+    <br>I'm Emily and I am an aspiring software engineer
     <br>who loves to build intuitive, helpful products. 
+    <br><br>
+    <br> Currently working on: 🔨<br>
+    <a href="https://github.com/JumboCode/village-food-hub">Full Stack Dev @ Village Food Hub </a>
+    <br>
+    <a href="https://sites.tufts.edu/idea/plastibot/"> Software Engineer @ Plastibot Project </a>
   </samp>
 </p>
 
