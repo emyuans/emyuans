@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Hi! 
+    Hi! 😄
     <br>I'm Emily and I am an aspiring software engineer
     <br>who loves to build intuitive, helpful products. 
     <br><br>
