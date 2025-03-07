@@ -1,4 +1,10 @@
-## Hi there 👋
+<p align="center">
+  <samp>
+    Hi!
+    <br>I am Emily and I am an aspiring software engineer
+    <br>who loves to build intuitive, helpful products. 
+  </samp>
+</p>
 
 <!--
 **emyuans/emyuans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
